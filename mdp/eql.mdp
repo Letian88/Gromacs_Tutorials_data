@@ -24,6 +24,6 @@ DispCorr                 = EnerPres
 
 tcoupl                   = Nose-Hoover
 tc-grps                  = System
-tau-t                    = 2.0
+tau-t                    = 4.0
 ref-t                    = 298.15
 nhchainlength            = 1
